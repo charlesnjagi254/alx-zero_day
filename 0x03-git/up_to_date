@@ -1,1 +1,1 @@
-echo 'text' > file_name
+git pull
